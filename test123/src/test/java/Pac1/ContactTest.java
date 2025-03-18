@@ -19,10 +19,18 @@ public void createcontactTest() {
 	System.out.println("EXECUTE createcontactTest");
 
 }
+@Test
 public void modifycontactTest() {
 	
 	
 	System.out.println("EXECUTE modifycontactTest");
+
+}
+@Test
+public void deletecontactTest() {
+	
+	
+	System.out.println("EXECUTE deletecontactTest");
 
 }
 }
